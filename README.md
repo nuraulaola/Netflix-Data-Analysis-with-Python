@@ -2,7 +2,7 @@
 
 ## Overview
 
-Conduct a thorough data analysis of Netflix using Python to unveil key insights and trends, fostering a detailed understanding of the platform's performance and user behavior. 
+Conduct a thorough data analysis of Netflix using Python to unveil key insights and trends, fostering a detailed understanding of the platform's performance and user behavior. Explore the Looker dashboard for interactive visualizations: [Netflix Data Dashboard](https://lookerstudio.google.com/s/sPQhrYx7xGg)
 
 ## Key Features
 
