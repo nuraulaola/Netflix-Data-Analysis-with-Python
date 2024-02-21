@@ -2,7 +2,7 @@
 
 ## Overview
 
-Conduct a thorough data analysis of Netflix using Python to unveil key insights and trends, fostering a detailed understanding of the platform's performance and user behavior. Datasets obtained from [Kaggle](https://www.kaggle.com/): [Netflix Prize Data](https://www.kaggle.com/netflix-inc/netflix-prize-data)
+Conduct a thorough data analysis of Netflix using Python to unveil key insights and trends, fostering a detailed understanding of the platform's performance and user behavior. 
 
 ## Key Features
 
