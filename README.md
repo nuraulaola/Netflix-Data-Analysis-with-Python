@@ -2,7 +2,7 @@
 
 ## Overview
 
-Conduct a thorough data analysis of Netflix using Python to unveil key insights and trends, fostering a detailed understanding of the platform's performance and user behavior.
+Conduct a thorough data analysis of Netflix using Python to unveil key insights and trends, fostering a detailed understanding of the platform's performance and user behavior. Datasets obtained from [Kaggle](https://www.kaggle.com/): [Netflix Prize Data](https://www.kaggle.com/netflix-inc/netflix-prize-data)
 
 ## Key Features
 
@@ -21,5 +21,3 @@ Clone the repository and explore the project locally:
 ```bash
 git clone https://github.com/your-username/Netflix-Data-Analysis.git
 cd Netflix-Data-Analysis
-
-Datasets obtained from [Kaggle](https://www.kaggle.com/): [Netflix Prize Data](https://www.kaggle.com/netflix-inc/netflix-prize-data)
